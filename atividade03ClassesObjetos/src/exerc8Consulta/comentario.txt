@@ -1,1 +1,0 @@
-A consulta deve ser uma nova classe, pois tem atributos dos quais podem armazenar diversos tipos de informações, inclusive de objetos de outras classes. Uma classe é como um modelo, nesse caso, a estrutura de dados armazenados em uma consulta é o modelo, e tal modelo pode ser utilizado para instanciar objetos, tais objetos são as diferentes consultas com diferentes informações.
