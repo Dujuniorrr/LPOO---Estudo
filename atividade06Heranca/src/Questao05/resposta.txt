@@ -1,0 +1,1 @@
+Reescrever metodos é chamado de polimorfismo, é um conceito onde uma classe herda um metodo, porém executa ele de uma forma diferente, então ele está classe que herda pode ter o mesmo metódo reescrito de outra forma.

@@ -1,0 +1,2 @@
+Um atributo derivado é um atributo do qual seus valores são obtidos por meio de outros atributos. Por conta disso, o atributo deriva de outro já existente.
+Por exemplo, num sistema de controle de estoque existe uma classe produto, onde existe um atribo para sua quantidade atual e outro para quantidade máxima que pode entrar no estoque, por meio desses atributos é possivel criar um atributo que conta quantos produtos faltam para o estoque do produto chegar na quantidade máxima.
